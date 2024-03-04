@@ -16,4 +16,4 @@ Etant donné le diagramme de domaine ci-dessus, les assertions suivantes sont-el
 
 Représentez la même association avec la notation UML « petit losange » 
 
-- Quelles informations perd-on par rapport au diagramme ci-dessus ? 
+- Quelles informations perd-on par rapport au diagramme ci-dessus ? On perd la notion de Cours puisque l'on utilise une relation ternaire.

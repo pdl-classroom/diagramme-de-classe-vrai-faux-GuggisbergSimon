@@ -1,0 +1,15 @@
+@startuml
+
+class Professeur
+
+class Discipline
+
+class Etudiant
+
+<> diamond
+
+Professeur "1" -- diamond
+Discipline "*" -- diamond
+Etudiant "5..30" -- diamond
+
+@enduml
